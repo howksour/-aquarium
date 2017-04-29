@@ -1,0 +1,57 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+    background: #000;
+}
+header{
+  
+}
+.container{
+   
+}
+.key{
+    background: url(images/main2.jpg);
+    background-size: cover;
+    min-height: 800px;
+    margin: 5px;
+}
+.container h2{
+    color: #fff;
+    margin-left: 10px;
+}
+.key h1{
+    padding: 300px;
+    overflow: hidden;
+    color: #fff;
+    font-size: 20px;
+    へいへい
+}
+nav{
+    background: #000;
+  float: left;
+  vertical-align: bottom;
+　overflow: hidden;
+    height: auto;
+    margin: center;
+}
+nav li{
+  margin-left: 5px;
+  display:inline;
+  font-size: 19px;
+ list-style-type: none;
+ display: block;
+    margin-right: 1em;
+  
+}
+a{
+    margin-left: 100px;
+  color: #fff;
+    text-decoration: none;
+    height: 100%;
+}
+a:hover{
+    color:aqua;
+    transition: 0.5s;
+}
